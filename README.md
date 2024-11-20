@@ -25,3 +25,18 @@ At first glance, this seemed like a straightforward project. However, it posed s
  - Matplotib, Folium and Tableau for data visualization
 ### 📋 Findings
 
+Due to wide confidence intervals, it was diffucult to make any meaningful conclusions based on the mean engagement. 
+
+![image](https://github.com/user-attachments/assets/b30d2f64-1944-4fe9-b76e-4513095411ce)
+
+For more conservative estimates, I used the lower bound of the 95% confidence intervals and organized data from lowest to highest estimate.
+
+![image](https://github.com/user-attachments/assets/2ea7b8b9-c85b-41e5-89e2-61d43e0765b5)
+
+I further plotted lower CI bounds on the map:
+
+![image](https://github.com/user-attachments/assets/cb358ce9-3bbc-4001-8241-e16ae6f20c23)
+
+The visualization revealed an intriguing trend: states with higher engagement rates were predominantly located closer to the West Coast. This suggests that engagement may be influenced more by publishing time than geographic location. All newsletters are sent at 9 AM EST, which corresponds to 8 AM CST and 7 AM MST.
+
+Given the client’s audience of industry professionals, earlier deliveries likely appear at the top of their inboxes while still arriving early enough in the morning to capture their attention. Based on these insights, I recommended experimenting with newsletter delivery times. Publishing one or two hours earlier could potentially increase engagement rates by aligning better with readers' morning routines.
