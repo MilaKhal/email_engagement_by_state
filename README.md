@@ -22,7 +22,6 @@ At first glance, this seemed like a straightforward project. However, it posed s
  - [numpy](https://numpy.org/) for random sample generation
  - [tqdm](https://tqdm.github.io/) to track the progress of the simulation
  - [US](https://pypi.org/project/us/) to standartize incosistent U.S. state names into two-letter codes
+ - Matplotib, Folium and Tableau for data visualization
 ### 📋 Findings
 
-
-[here](https://apps.bulletinintelligence.com/startcenter/reports/reportdetail.aspx?template=PII%20Enabled%20Clients)
